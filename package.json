@@ -1,0 +1,26 @@
+{
+  "name": "mixed-messages",
+  "version": "1.0.0",
+  "description": "a project for codecademy made by me and KlaasNiphaas",
+  "main": "server.js",
+  "dependencies": {
+    "document": "^0.4.7",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pizza-boy101/mixed-messages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pizza-boy101/mixed-messages/issues"
+  },
+  "homepage": "https://github.com/pizza-boy101/mixed-messages#readme"
+}
+

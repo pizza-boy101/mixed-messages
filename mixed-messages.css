@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(9, 117, 189);
+  text-align: center;
+}
+
+article {
+  text-align: center;
+}
+h1 {
+  color: #004;
+  font-size: 50px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: left;
+}
